@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IssaDiallo/node-github-actions.git"
+  },
+  "author": "ID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IssaDiallo/node-github-actions/issues"
+  },
+  "homepage": "https://github.com/IssaDiallo/node-github-actions#readme"
+}
